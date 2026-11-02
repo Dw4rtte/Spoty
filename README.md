@@ -1,0 +1,2 @@
+# Spoty
+Plataforma Spoty
