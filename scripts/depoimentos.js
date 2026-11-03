@@ -38,7 +38,7 @@
   ];
 
   // Mesmo caminho dos botões "Entrar" do index.html
-  const PAGINA_LOGIN = "./login.html";
+  const PAGINA_LOGIN = "html/login.html";
 
   let depoimentosAtuais = [];
 
