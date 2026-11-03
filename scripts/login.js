@@ -53,7 +53,7 @@ async function descobrirDestinoAposLogin(usuario) {
     }
   }
 
-  return "index.html";
+  return "../index.html";
 }
 
 // ==========================================
